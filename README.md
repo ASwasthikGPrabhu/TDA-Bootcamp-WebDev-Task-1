@@ -4,7 +4,7 @@ A modern and responsive e-commerce landing page built using React, Vite, Tailwin
 
 ## Live Demo
 
-https://your-project.vercel.app
+https://tda-bootcamp-web-dev-task-1.vercel.app
 
 ## Features
 
