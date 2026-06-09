@@ -1,0 +1,96 @@
+export const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    desc: "Noise cancelling, 30hr battery",
+    price: 49.99,
+    oldPrice: 79.99,
+    badge: "Best Seller",
+    badgeColor: "bg-red-500",
+    rating: "★★★★★",
+    reviews: 128,
+    image:
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+  },
+  {
+    id: 2,
+    name: "Running Shoes",
+    desc: "Lightweight, breathable design",
+    price: 79.99,
+    badge: "New",
+    badgeColor: "bg-teal-500",
+    rating: "★★★★☆",
+    reviews: 94,
+    image:
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+  },
+  {
+    id: 3,
+    name: "Mechanical Keyboard",
+    desc: "RGB backlit, tactile switches",
+    price: 99.99,
+    oldPrice: 139.99,
+    rating: "★★★★★",
+    reviews: 211,
+    image:
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+  },
+  {
+    id: 4,
+    name: "Portable Charger",
+    desc: "20000mAh, dual USB ports",
+    price: 29.99,
+    rating: "★★★★☆",
+    reviews: 76,
+    image:
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800",
+  },
+  {
+    id: 5,
+    name: "Smart Watch",
+    desc: "Heart rate monitor, GPS",
+    price: 149.99,
+    oldPrice: 199.99,
+    badge: "Sale",
+    badgeColor: "bg-orange-500",
+    rating: "★★★★★",
+    reviews: 340,
+    image:
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
+  },
+  {
+    id: 6,
+    name: "Instant Camera",
+    desc: "Retro design, prints instantly",
+    price: 69.99,
+    rating: "★★★★☆",
+    reviews: 55,
+    image:
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+  },
+  {
+    id: 7,
+    name: "Skincare Gift Set",
+    desc: "Moisturizer, serum & eye cream",
+    price: 44.99,
+    oldPrice: 65,
+    badge: "Best Seller",
+    badgeColor: "bg-red-500",
+    rating: "★★★★★",
+    reviews: 182,
+    image:
+      "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?w=800",
+  },
+  {
+    id: 8,
+    name: "Premium Yoga Mat",
+    desc: "Non-slip, eco-friendly material",
+    price: 34.99,
+    badge: "New",
+    badgeColor: "bg-teal-500",
+    rating: "★★★★☆",
+    reviews: 67,
+    image:
+      "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=800",
+  },
+];
